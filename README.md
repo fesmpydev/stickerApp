@@ -1,50 +1,50 @@
-# Welcome to your Expo app 👋
+# StickerApp
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### Descripción
 
-## Get started
+Esta es una aplicación desarrollada con **React Native** y **Expo** para dispositivos Android e iOS. La app ofrece agregar sticker predeterminados a fondos de pantalla elegibles por el usuario y posteriormente descargarlo, proporcionando una experiencia amigable y eficiente para los usuarios.
 
-1. Install dependencies
+---
+
+## Características
+
+- **Multiplataforma**: Compatible con Android, iOS, web.
+- **Tecnología Expo**: Desarrollo rápido y eficiente.
+
+---
+
+## Requisitos
+
+- **Node.js** >= 14.x
+- **Expo CLI** >= 6.x
+- Dispositivo o emulador Android/iOS.
+
+---
+
+## Instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/fesmpydev/stickerApp.git
+
+   ```
+2. Accede a la ubicacion:
 
    ```bash
-   npm install
+   cd stickerApp
+
    ```
 
-2. Start the app
+3. Inicializa la aplicacion:
 
    ```bash
-    npx expo start
+   npm start
+
    ```
 
-In the output, you'll find options to open the app in a
+4. Descarga Expo Go en tu dispositivo:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Android: https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www
+- iOS: https://itunes.apple.com/app/apple-store/id982107779
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+5. Abre expo go y escanea el codigo QR mostrado en la terminal.
