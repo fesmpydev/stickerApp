@@ -57,3 +57,20 @@ Esta es una aplicación desarrollada con **React Native** y **Expo** para dispos
 - iOS: https://itunes.apple.com/app/apple-store/id982107779
 
 5. Abre expo go y escanea el codigo QR en la terminal.
+
+## Tecnologías Utilizadas
+
+- React Native
+- Expo
+- Redux Toolkit
+- Librerias de terceros
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas contribuir:
+
+- Haz un fork del proyecto.
+- Crea una nueva rama (git checkout -b feature/nueva-feature).
+- Realiza los cambios y haz un commit (git commit -m 'Descripción de los cambios').
+- Haz un push de la rama (git push origin feature/nueva-feature).
+- Crea un pull request.
