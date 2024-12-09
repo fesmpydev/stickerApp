@@ -24,10 +24,12 @@ Esta es una aplicación desarrollada con **React Native** y **Expo** para dispos
 ## Instalación
 
 1. Clona este repositorio:
+
    ```bash
    git clone https://github.com/fesmpydev/stickerApp.git
 
    ```
+
 2. Accede a la ubicacion:
 
    ```bash
@@ -35,16 +37,23 @@ Esta es una aplicación desarrollada con **React Native** y **Expo** para dispos
 
    ```
 
-3. Inicializa la aplicacion:
+3. Instala las dependencias:
 
    ```bash
-   npm start
+   npm install
 
    ```
 
-4. Descarga Expo Go en tu dispositivo:
+4. Inicializa el servidor de desarrollo:
+
+   ```bash
+   npx expo start
+
+   ```
+
+5. Escanea el código QR con la aplicación Expo Go o ejecuta el proyecto en un emulador/simulador:
 
 - Android: https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www
 - iOS: https://itunes.apple.com/app/apple-store/id982107779
 
-5. Abre expo go y escanea el codigo QR mostrado en la terminal.
+5. Abre expo go y escanea el codigo QR en la terminal.
